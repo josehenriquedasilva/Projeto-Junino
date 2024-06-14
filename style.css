@@ -41,5 +41,9 @@ main {
     margin: auto;
     border-radius: 15px;
     padding: 10px;
-    font-weight: ;
+    font-weight: bold;
+}
+
+main h1 {
+    text-align: center;
 }
