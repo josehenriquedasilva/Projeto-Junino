@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+body {
+    background-image: linear-gradient(to top, #EFD178, #F44321);
+}
+
+
+header {
+    min-width: 300px;
+    min-height: 300px;
+}
+
+section {
+    display: block;
+}
+
+#imagem {
+    background-image: url('imagens/imagem2.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90vh;
+    max-width: 858px;
+    margin: auto;
+}
+
+main h1 {
+    text-align: center;
+}
