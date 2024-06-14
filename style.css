@@ -24,7 +24,6 @@ section {
     background-image: url('imagens/imagem2.jpg');
     background-size: contain;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     height: 90vw;
     max-width: 858px;
     margin: auto;
@@ -42,4 +41,5 @@ main {
     margin: auto;
     border-radius: 15px;
     padding: 10px;
+    font-weight: ;
 }
