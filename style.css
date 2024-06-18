@@ -36,6 +36,7 @@ main {
     border-radius: 15px;
     padding: 10px;
     font-weight: bold;
+    box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.336);
 }
 
 main h1 {
