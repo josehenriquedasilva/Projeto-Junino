@@ -10,15 +10,10 @@ body {
     background-attachment: fixed;
 }
 
-
-section {
-    display: block;
-}
-
-
 picture img {
     display: block;
     margin: auto;
+    
 }
 
 section h1, h2{
