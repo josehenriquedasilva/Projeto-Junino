@@ -4,10 +4,11 @@
 
 
 body {
-    background-image: url('imagens/Imagem\ do\ WhatsApp\ de\ 2024-06-13\ à\(s\)\ 11.20.14_d1b6826f.jpg');
+    background-image: url('imagens/Festa\ junina2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position: center top;
 }
 
 picture img {
